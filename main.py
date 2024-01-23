@@ -25,5 +25,5 @@ def digital_clock(custom_locale: str = 'hr_HR',
 
 while True:
     os.system('cls' if os.name == 'nt' else 'clear')
-    print(digital_clock())
+    print(digital_clock(),'\t',digital_clock('de_DE'))
     time.sleep(1)
