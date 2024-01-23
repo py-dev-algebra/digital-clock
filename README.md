@@ -1,2 +1,6 @@
-# digital-clock
- Python digital clock display time in console
+# Digital clock app
+
+## Python simple demo app
+
+Python ***digital clock*** display application. Display current time in console.
+
